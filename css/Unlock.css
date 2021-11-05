@@ -1,0 +1,46 @@
+* {    
+  box-sizing: border-box;   
+  margin: 0;    
+  padding: 0;
+  align-items: center;
+  font-family: var(--bs-font-sans-serif);
+}
+
+
+/*------------------------------------------------Ordinateur-------------------------------------------------------------*/
+@media screen and (min-width: 480px)
+{
+
+}
+
+/*------------------------------------------------Téléphone-------------------------------------------------------------*/
+@media screen and (max-width: 480px)
+{
+
+	body {
+		text-align: center;
+		background-color: whitesmoke;
+	}
+
+	.titreUnlock {
+		color:red;
+		font-size: 20vw;
+		margin-top: 10vh;
+	}
+
+	.ssTitreUnlock {
+		margin-top: 3vh;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
